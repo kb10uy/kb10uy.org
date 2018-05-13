@@ -39,6 +39,7 @@ $table-message-color: #6d6d6d;
     td {
       padding: 8px;
       &.icon {
+        color: $table-message-color;
         width: 1em;
         padding-right: 0;
       }

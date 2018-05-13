@@ -2,7 +2,7 @@
   <header>
     <div class="container">
       <div class="left">
-        <img src="~assets/img/tencocoa.png" alt="" class="logo">
+        <img src="~assets/img/tencocoa.png" alt="" class="logo" :class="{ extra: extraMode }" @click="clickLogo">
         <form action="https://www.google.com/search" method="get">
           <input type="hidden" name="q" value="kb10uy">
           <span class="search">
@@ -59,6 +59,18 @@ header {
     .logo {
       width: 40px;
       height: 40px;
+
+      &.extra {
+        animation: rotation 0.5s linear infinite;
+      }
+      @keyframes rotation {
+        0% {
+          transform: rotateZ(0deg);
+        }
+        100% {
+          transform: rotateZ(1080deg);
+        }
+      }
     }
   }
 
@@ -191,12 +203,20 @@ export default {
   data() {
     return {
       socialLinks: false,
+      extraMode: false,
+      logo: 0,
     };
   },
 
   methods: {
     toggleSocialLinks() {
       this.socialLinks = !this.socialLinks;
+    },
+    clickLogo() {
+      this.logo++;
+      if (this.logo >= 10) {
+        this.extraMode = true;
+      }
     },
   },
 };
