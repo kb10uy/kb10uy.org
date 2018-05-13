@@ -173,7 +173,7 @@
         <li><a href="https://www.google.co.jp/search?tbm=isch&amp;q=%E9%AB%98%E6%A3%AE%E8%97%8D%E5%AD%90">Aiko Takamori</a></li>
         <li><a href="https://www.google.co.jp/search?tbm=isch&amp;q=%E6%AB%BB%E4%BA%95%E6%A1%83%E8%8F%AF">Momoka Sakurai</a></li>
         <li><a href="https://www.google.co.jp/search?tbm=isch&amp;q=%E5%A7%AB%E5%B7%9D%E5%8F%8B%E7%B4%80">Yuki Himekawa</a></li>
-        <li><a href="https://www.google.co.jp/search?tbm=isch&amp;q=%E6%A4%8E%E5%90%8D%E6%B3%95%E5%AD%90">Noriko Shiina</a></li>
+        <li><a href="https://www.google.co.jp/search?tbm=isch&amp;q=%E6%A4%8E%E5%90%8D%E6%B3%95%E5%AD%90%20%E3%83%87%E3%83%AC%E3%83%9E%E3%82%B9">Noriko Shiina</a></li>
         <li><a href="https://www.google.co.jp/search?tbm=isch&amp;q=%E3%82%A6%E3%82%A3%E3%83%83%E3%83%81%20%E3%81%B7%E3%82%88%E3%81%B7%E3%82%88">Witch</a></li>
         <li>C#</li>
         <li>Raspberry Pi</li>
