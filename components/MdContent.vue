@@ -14,6 +14,7 @@ $frame-color: #ffd5fc;
 $header-bg-color: #fdf3fd;
 $header-color: #b47fb0;
 $body-bg-color: #ffffff;
+$link-color: #97368f;
 
 .md-content {
   margin: 8px 0;
@@ -38,10 +39,27 @@ $body-bg-color: #ffffff;
       text-align: center;
     }
 
-    h1 {
-      margin: 0.4em 0;
+    h1,
+    h2 {
+      margin: 1rem 0;
       padding-bottom: 0.3em;
       border-bottom: 1px solid $frame-color;
+    }
+
+    h3 {
+      margin: 0.4em 0;
+    }
+
+    a {
+      text-decoration: none;
+      color: $link-color;
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+
+    li {
+      line-height: 1.5em;
     }
   }
 }

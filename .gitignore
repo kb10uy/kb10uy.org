@@ -3,3 +3,4 @@
 /static/*
 /assets/*
 /package-lock.json
+/dist

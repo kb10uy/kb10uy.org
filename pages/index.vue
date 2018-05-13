@@ -101,6 +101,46 @@
             <td class="content"><a href="https://ontology.kb10uy.org">ontology</a></td>
             <td class="message">Screenshots of my SSR idols</td>
           </tr>
+          <tr>
+            <td class="icon">⚡</td>
+            <td class="content"><a href="/echarge/index.html">echarge</a></td>
+            <td class="message">Electric field line visualizer</td>
+          </tr>
+          <tr>
+            <td class="icon">🗄️</td>
+            <td class="content"><a href="/files/atsumori-win-1.0.zip">atsumori-win-1.0.zip</a></td>
+            <td class="message">Astumori for Windows</td>
+          </tr>
+          <tr>
+            <td class="icon">🗄️</td>
+            <td class="content"><a href="/files/BlockListViewer.zip">BlockListViewer.zip</a></td>
+            <td class="message">Twitter Block Viewer</td>
+          </tr>
+          <tr>
+            <td class="icon">🗄️</td>
+            <td class="content"><a href="/files/CanWeGoBack.zip">CanWeGoBack.zip</a></td>
+            <td class="message">Used to be 諦めるのは easy</td>
+          </tr>
+          <tr>
+            <td class="icon">🗄️</td>
+            <td class="content"><a href="/files/ikr7.zip">ikr7.zip</a></td>
+            <td class="message">2018年の目標: 他人をオモチャにしない</td>
+          </tr>
+          <tr>
+            <td class="icon">🗄️</td>
+            <td class="content"><a href="/files/otaisan4win.zip">otaisan4win.zip</a></td>
+            <td class="message">O-ta isan for Windows</td>
+          </tr>
+          <tr>
+            <td class="icon">🗄️</td>
+            <td class="content"><a href="/files/ShutdownPreventer.7z">ShutdownPreventer.7z</a></td>
+            <td class="message">Keep your Windows awake</td>
+          </tr>
+          <tr>
+            <td class="icon">🗄️</td>
+            <td class="content"><a href="/files/tomorinao4win.zip">tomorinao4win.zip</a></td>
+            <td class="message">TomoriNao for Windows</td>
+          </tr>
         </tbody>
       </table>
     </directory-table>
@@ -118,6 +158,29 @@
       </div>
       <h1>kb10uy.org</h1>
       The design of this site is heavily inspired by GitHub.
+
+      <h2>About kb10uy</h2>
+      <h3>Name</h3>
+      Yuu Kobayashi
+      <h3>Birthday</h3>
+      1998/06/03
+      <h3>Location</h3>
+      Tochigi, Japan
+      <h3>Like</h3>
+      <ul>
+        <li><a href="https://www.google.co.jp/search?tbm=isch&amp;q=%E6%AF%94%E9%82%A3%E5%90%8D%E5%B1%85%E5%A4%A9%E5%AD%90">Tenshi Hinanawi</a></li>
+        <li><a href="https://www.google.co.jp/search?tbm=isch&amp;q=%E4%BF%9D%E7%99%BB%E5%BF%83%E6%84%9B">Cocoa Hoto</a></li>
+        <li><a href="https://www.google.co.jp/search?tbm=isch&amp;q=%E9%AB%98%E6%A3%AE%E8%97%8D%E5%AD%90">Aiko Takamori</a></li>
+        <li><a href="https://www.google.co.jp/search?tbm=isch&amp;q=%E6%AB%BB%E4%BA%95%E6%A1%83%E8%8F%AF">Momoka Sakurai</a></li>
+        <li><a href="https://www.google.co.jp/search?tbm=isch&amp;q=%E5%A7%AB%E5%B7%9D%E5%8F%8B%E7%B4%80">Yuki Himekawa</a></li>
+        <li><a href="https://www.google.co.jp/search?tbm=isch&amp;q=%E6%A4%8E%E5%90%8D%E6%B3%95%E5%AD%90">Noriko Shiina</a></li>
+        <li><a href="https://www.google.co.jp/search?tbm=isch&amp;q=%E3%82%A6%E3%82%A3%E3%83%83%E3%83%81%20%E3%81%B7%E3%82%88%E3%81%B7%E3%82%88">Witch</a></li>
+        <li>C#</li>
+        <li>Raspberry Pi</li>
+        <li>mbed</li>
+      </ul>
+      <h3>E-mail</h3>
+      kb10uy(at)kb10uy.org
     </md-content>
   </div>
 </template>
@@ -127,7 +190,6 @@
   margin: 0 0.4em;
 }
 </style>
-
 
 <script>
 import MdContent from '~/components/MdContent.vue';

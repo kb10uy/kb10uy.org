@@ -2,6 +2,7 @@
   <div>
     <navbar />
     <nuxt />
+    <my-footer />
   </div>
 </template>
 
@@ -27,10 +28,12 @@ body {
 
 <script>
 import Navbar from '~/components/Navbar.vue';
+import MyFooter from '~/components/Footer.vue';
 
 export default {
   components: {
     Navbar,
+    MyFooter,
   },
 };
 </script>
