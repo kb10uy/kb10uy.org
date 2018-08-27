@@ -33,22 +33,22 @@
           </tr>
           <tr>
             <td class="icon"><i class="fas fa-fw fa-folder" /></td>
-            <td class="content"><a href="http://homo.kb10uy.org">homo</a></td>
+            <td class="content"><a href="https://homo.kb10uy.org">homo</a></td>
             <td class="message">The ring of victim of @mpyw</td>
           </tr>
           <tr>
             <td class="icon"><i class="fas fa-fw fa-link" /></td>
-            <td class="content"><a href="http://xn--ydko.kb10uy.org">ホモ</a></td>
+            <td class="content"><a href="https://xn--ydko.kb10uy.org">ホモ</a></td>
             <td class="message">Alias of homo</td>
           </tr>
           <tr>
             <td class="icon"><i class="fas fa-fw fa-folder" /></td>
-            <td class="content"><a href="http://mpyw.kb10uy.org">mpyw</a></td>
+            <td class="content"><a href="https://mpyw.kb10uy.org">mpyw</a></td>
             <td class="message">@mpyw lootbox</td>
           </tr>
           <tr>
             <td class="icon"><i class="fas fa-fw fa-folder" /></td>
-            <td class="content"><a href="http://api.mpyw.kb10uy.org">api.mpyw</a></td>
+            <td class="content"><a href="https://mpyw.kb10uy.org/api">api.mpyw</a></td>
             <td class="message">@mpyw lootbox API</td>
           </tr>
           <tr>
@@ -63,32 +63,32 @@
           </tr>
           <tr>
             <td class="icon"><i class="fas fa-fw fa-folder" /></td>
-            <td class="content"><a href="http://sperm.kb10uy.org">sperm</a></td>
+            <td class="content"><a href="https://sperm.kb10uy.org">sperm</a></td>
             <td class="message">My used condom</td>
           </tr>
           <tr>
             <td class="icon"><i class="fas fa-fw fa-link" /></td>
-            <td class="content"><a href="http://xn--cbktfsc9d4d8b6925a0bxc9nn.kb10uy.org">使用済みコンドーム</a></td>
+            <td class="content"><a href="https://xn--cbktfsc9d4d8b6925a0bxc9nn.kb10uy.org">使用済みコンドーム</a></td>
             <td class="message">Alias of sperm</td>
           </tr>
           <tr>
             <td class="icon"><i class="fas fa-fw fa-link" /></td>
-            <td class="content"><a href="http://xn--ick7ar5azg9dxfcd1080khq1bngf9qk.kb10uy.org">σπέρμα</a></td>
+            <td class="content"><a href="https://xn--ixai6aogj.kb10uy.org">σπέρμα</a></td>
             <td class="message">Alias of sperm</td>
           </tr>
           <tr>
             <td class="icon"><i class="fas fa-fw fa-folder" /></td>
-            <td class="content"><a href="http://hydrogen-sound.kb10uy.org">hydrogen-sound</a></td>
+            <td class="content"><a href="https://hydrogen-sound.kb10uy.org">hydrogen-sound</a></td>
             <td class="message">Ah, the sound of hydrogen!</td>
           </tr>
           <tr>
             <td class="icon"><i class="fas fa-fw fa-link" /></td>
-            <td class="content"><a href="http://xn--1rwa901k.kb10uy.org">水素水</a></td>
+            <td class="content"><a href="https://xn--1rwa901k.kb10uy.org">水素水</a></td>
             <td class="message">Alias of hydrogen-sound</td>
           </tr>
           <tr>
             <td class="icon"><i class="fas fa-fw fa-folder" /></td>
-            <td class="content"><a href="http://hydrogen-sound.kb10uy.org">api.hydrogen-sound</a></td>
+            <td class="content"><a href="http://hydrogen-sound.kb10uy.org/api">api.hydrogen-sound</a></td>
             <td class="message">Hydrogen sound API</td>
           </tr>
           <tr>
@@ -176,6 +176,7 @@
         <li><a href="https://www.google.co.jp/search?tbm=isch&amp;q=%E6%A4%8E%E5%90%8D%E6%B3%95%E5%AD%90%20%E3%83%87%E3%83%AC%E3%83%9E%E3%82%B9">Noriko Shiina</a></li>
         <li><a href="https://www.google.co.jp/search?tbm=isch&amp;q=%E3%82%A6%E3%82%A3%E3%83%83%E3%83%81%20%E3%81%B7%E3%82%88%E3%81%B7%E3%82%88">Witch</a></li>
         <li>C#</li>
+        <li>TypeScript</li>
         <li>Raspberry Pi</li>
         <li>mbed</li>
       </ul>

@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nuxt",
-    "generate": "nuxt generate"
+    "generate": "nuxt generate",
+    "deploy": "\\cp -fr ./dist/* ~/web/www/portal/"
   },
   "author": "",
   "license": "ISC",
