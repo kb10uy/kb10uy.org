@@ -29,6 +29,7 @@
             <div class="head">kb10uy on</div>
             <hr>
             <ul class="social">
+              <li><a href="https://mstdn.maud.io/@kb10uy">Mastodon (mstdn.maud.io)</a></li>
               <li><a href="https://twitter.com/kb10uy">Twitter</a></li>
               <li><a href="https://github.com/kb10uy">GitHub</a></li>
               <li><a href="http://steamcommunity.com/id/kb10uy">Steam</a></li>
