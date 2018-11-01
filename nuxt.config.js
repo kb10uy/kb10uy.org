@@ -30,6 +30,10 @@ module.exports = {
         href: '/favicon.ico',
         type: 'image/vnd.microsoft.icon',
       },
+      {
+        rel: 'me',
+        href: 'https://mstdn.maud.io/@kb10uy',
+      },
     ],
   },
 };
