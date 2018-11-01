@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="default-layout">
     <navbar />
     <nuxt />
     <my-footer />
@@ -9,9 +9,7 @@
 <style lang="scss">
 $body-background: #e9ffdf;
 
-body {
-  margin: 0;
-  padding: 0;
+.default-layout {
   background-color: $body-background;
   font-family: 'Ubuntu', sans-serif;
 }
