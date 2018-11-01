@@ -8,6 +8,7 @@
 
 <style lang="scss" scoped>
 .service-header {
+  position: sticky;
   background-color: #eee;
   padding: 0 20px;
 

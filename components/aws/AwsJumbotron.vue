@@ -28,9 +28,11 @@
     .summary {
       box-sizing: border-box;
       margin: 8px 0;
-      padding: 15px;
       font-size: 18pt;
-      border-left: 3px solid #243;
+      &.with-box {
+        padding: 15px;
+        border-left: 3px solid #243;
+      }
     }
   }
 }

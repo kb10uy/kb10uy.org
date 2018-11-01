@@ -14,6 +14,7 @@
 <style lang="scss" scoped>
 .aws-header {
   display: grid;
+  position: sticky;
   grid-template-columns: max-content max-content 1fr max-content;
   align-items: center;
   padding: 2px 40px;
