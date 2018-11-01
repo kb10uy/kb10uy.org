@@ -9,7 +9,8 @@
 <style lang="scss" scoped>
 .jumbotron {
   padding: 0 20px;
-  background-image: url('~assets/img/kws-jumbotron-back.png');
+  background-image: url('~assets/img/kws-jumbotron-back.jpg');
+  background-size: cover;
   .wrap {
     align-items: center;
     margin: 0 auto;

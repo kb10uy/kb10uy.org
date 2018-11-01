@@ -8,6 +8,11 @@
         <tbody>
           <tr>
             <td class="icon"><i class="fas fa-fw fa-folder" /></td>
+            <td class="content"><nuxt-link :to="{ name: 'kws' }">kb10uy Web Service</nuxt-link></td>
+            <td class="message">My blog</td>
+          </tr>
+          <tr>
+            <td class="icon"><i class="fas fa-fw fa-folder" /></td>
             <td class="content"><a href="https://blog.kb10uy.org">blog</a></td>
             <td class="message">My blog</td>
           </tr>
